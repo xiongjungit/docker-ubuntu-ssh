@@ -1,5 +1,5 @@
 ubuntu:
-  image: tutum/ubuntu:latest
+  image: dockerxman/ubuntu-ssh:latest
   ports:
     - 2222:22
   environment:
